@@ -1,0 +1,3 @@
+git@github.com:unlucky-shen/nvim.git
+git@github.com:unlucky-shen/kitty.git
+git@github.com:unlucky-shen/templates.git
