@@ -4,7 +4,7 @@
 
 Be sure to make scripts executable using,
 ```bash
-chmod +x <script-name>
+chmod -x *.sh
 ```
 
 Then run using,
