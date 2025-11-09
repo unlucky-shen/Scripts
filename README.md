@@ -1,3 +1,3 @@
 # Scripts
 
-` Bash scripts cuz why not`
+` Bash scripts cuz why not `
